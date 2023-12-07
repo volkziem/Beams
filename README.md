@@ -10,7 +10,7 @@ Many of the links point to JSTOR
 ([`https://www.jstor.org`](https://www.jstor.org)). The first page is
 usually open to read, but access to the full document might either
 require help from a friendly librarian or institutional access from a
-school or university. Pages from CERN Courier
+school or a university. Pages from CERN Courier
 ([`https://cerncourier.com`](https://cerncourier.com)) or nobelprize.org
 ([`https://www.nobelprize.org`](https://www.nobelprize.org)) are openly
 accessible.
