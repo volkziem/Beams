@@ -18,14 +18,12 @@ accessible.
 Chapter 1: Introduction
 ======================
 
-The book\'s theme is given by an answer to the question about what
-physics is: to figure out the world and build the instruments to help
-with the figuring. By focusing on the press conference at CERN where the
-discovery of the Higgs boson was announced, the link between the
-figuring (Higgs boson as last puzzle bit of the standard model) and the
-instruments (the large hadron collider and the detectors) is firmly
-established. The way physics works is briefly explained in describing
-\'unification\' as a way to distill experiments into physical laws.
+The answer to "what is physics?" provides the book's theme: to figure out the world and build
+the instruments to help with the figuring. By focusing on the press conference
+at CERN where the discovery of the Higgs boson was announced, the link between the figuring
+(Higgs boson as last puzzle bit of the standard model) and the instruments (the Large Hadron
+Collider and the detectors) is firmly established. The chapter then illustrates how physics
+advances by distilling experiments into physical laws, a process referred to as 'unification'.
 
 ### Links
 
