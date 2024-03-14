@@ -29,7 +29,7 @@ advances by distilling experiments into physical laws, a process referred to as 
 
 ### Links
 
--   [`https://www.routledge.com/go/what-is-physics`](https://www.routledge.com/go/what-is-physics) (The page has recently disappeared).
+-   [`https://www.routledge.com/go/what-is-physics`](https://www.routledge.com/go/what-is-physics) (The original has recently disappeared, a [copy is available from the wayback machine](https://web.archive.org/web/20210920090549/https://www.routledge.com/go/what-is-physics)).
     
     
 -   CERN web page [`https://www.cern.ch`](https://www.cern.ch).
