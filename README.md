@@ -6,7 +6,7 @@ This page provides web links to publications mentioned in the
 endnotes of my forthcoming book [Beams - The Story of Particle
 Accelerators and the Science They Discover](https://link.springer.com/book/9783031518515).
 The book will be published as a [Copernicus book](https://www.springer.com/series/17112)
-by Springer in March 2024.
+by Springer in April 2024.
 
 Many of the links point to JSTOR
 ([`https://www.jstor.org`](https://www.jstor.org)). The first page is
