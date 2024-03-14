@@ -127,7 +127,7 @@ Chapter 3: Nature\'s accelerators
 ================================
 
 Rutherford\'s great idea to use radioactive sources for scattering
-experiments leads to Bohr\'s model of atom. Positrons, muons, pions, an
+experiments leads to Bohr\'s model of the atom. Positrons, muons, pions, an
 V-particles that behave strangely\" are found in cosmic rays. The strong
 nuclear force and the weak interaction emerge as two fundamental forces
 besides electromagnetic forces and gravity. The strong force is
