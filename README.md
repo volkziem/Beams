@@ -17,6 +17,8 @@ school or a university. Pages from CERN Courier
 ([`https://www.nobelprize.org`](https://www.nobelprize.org)) are openly
 accessible.
 
+I also wrote a brief history of Swedish accelerators, quasi as an appendix to *Beams*. It is available from [arXix:2404.07088](https://arxiv.org/abs/2404.07088).
+
 Chapter 1: Introduction
 ======================
 
