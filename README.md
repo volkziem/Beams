@@ -19,6 +19,8 @@ accessible.
 
 I also wrote a brief history of Swedish accelerators, quasi as an appendix to *Beams*. The title is *Swedish Beams* and it is available from [arXix:2404.07088](https://arxiv.org/abs/2404.07088).
 
+And there is a brief history of German accelerators, entitled *German Beams* as well. It is available from [arXix:2405.03430](https://arxiv.org/abs/2405.03430).
+
 Chapter 1: Introduction
 ======================
 
