@@ -21,8 +21,8 @@ I also wrote a brief history of Swedish accelerators, quasi as an appendix to *B
 
 And there is a brief history of German accelerators, entitled *German Beams* as well. It is available from [arXix:2405.03430](https://arxiv.org/abs/2405.03430).
 
-The German translation [Teilchenbeschleuniger - Ihre Geschichte und ihr Beitrag zu den Wissenschaften](https://link.springer.com/book/9783031719523) will
-be published by Springer in March 2025.
+The German translation of *Beams* has the title [Teilchenbeschleuniger - Ihre Geschichte und ihr Beitrag zu den Wissenschaften](https://link.springer.com/book/9783031719523) 
+and will be published by Springer in March 2025.
 
 Chapter 1: Introduction
 ======================
