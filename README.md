@@ -3,9 +3,9 @@
 ![book cover](beams-cover.jpg)
 
 This page provides web links to publications mentioned in the
-endnotes of my forthcoming book [Beams - The Story of Particle
+endnotes of my book [Beams - The Story of Particle
 Accelerators and the Science They Discover](https://link.springer.com/book/9783031518515).
-The book will be published as a [Copernicus book](https://www.springer.com/series/17112)
+The book was published as a [Copernicus book](https://www.springer.com/series/17112)
 by Springer in April 2024.
 
 Many of the links point to JSTOR
@@ -20,6 +20,9 @@ accessible.
 I also wrote a brief history of Swedish accelerators, quasi as an appendix to *Beams*. The title is *Swedish Beams* and it is available from [arXix:2404.07088](https://arxiv.org/abs/2404.07088).
 
 And there is a brief history of German accelerators, entitled *German Beams* as well. It is available from [arXix:2405.03430](https://arxiv.org/abs/2405.03430).
+
+The German translation [Teilchenbeschleuniger - Ihre Geschichte und ihr Beitrag zu den Wissenschaften](https://link.springer.com/book/9783031719523) will
+be published by Springer in March 2025.
 
 Chapter 1: Introduction
 ======================
