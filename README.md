@@ -1,6 +1,8 @@
 # Beams - The Story of Particle Accelerators and the Science They Discover
 
-![book cover](beams-cover.jpg)
+![book cover](beams-cover.jpg) 
+<img src="Teilchenbeschleuniger.png" width="300pt"/>
+
 
 This page provides web links to publications mentioned in the
 endnotes of my book [Beams - The Story of Particle
