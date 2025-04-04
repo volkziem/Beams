@@ -19,10 +19,11 @@ accessible.
 
 I also wrote a brief history of Swedish accelerators, quasi as an appendix to *Beams*. The title is *Swedish Beams* and it is available from [arXix:2404.07088](https://arxiv.org/abs/2404.07088).
 
-And there is a brief history of German accelerators, entitled *German Beams* as well. It is available from [arXix:2405.03430](https://arxiv.org/abs/2405.03430).
+And there is a brief history of German accelerators, entitled *German Beams* as well. It is available from [arXix:2405.03430](https://arxiv.org/abs/2405.03430). The German
+translation has the title *Deutsche Beschleuniger* and is available from [here](https://static-content.springer.com/esm/chp%3A10.1007%2F978-3-031-71953-0_1/MediaObjects/613941_1_De_1_MOESM1_ESM.pdf).
 
 The German translation of *Beams* has the title [Teilchenbeschleuniger - Ihre Geschichte und ihr Beitrag zu den Wissenschaften](https://link.springer.com/book/9783031719523) 
-and will be published by Springer in March 2025.
+and will be published by Springer in March 2025. 
 
 Chapter 1: Introduction
 ======================
